@@ -1,2 +1,2 @@
-# AutoDigit
-A digit recognition app build using MLflow training pipeline and using  CNN 
+# MinorGP
+2024 Minor Group Project, Mentor :  Subhadeep Pramanik
